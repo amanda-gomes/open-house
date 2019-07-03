@@ -71,4 +71,4 @@ Para esse projeto, seguimos o Business Model Canvas, pois ele mostra a visão de
 
 
 ## Foto do App
-![Foto Página Principal](images/open-house.png)
+![Foto Página Principal](images/open-house-app.png)
